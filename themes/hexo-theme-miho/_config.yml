@@ -110,7 +110,17 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true 
+    appId: B7dSLdPngxM17V54EVhWwOl4-gzGzoHsz
+    appKey: Q0BjVAwxclyieI0NPH20yjWY
+    notify: false
+    verify: false
+    avatar: mm
+    placeholder: Just go go 
+    guest_info: nick,mail
+    pageSize: 10
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
